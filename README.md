@@ -150,16 +150,16 @@ flutter build ios --release
 ### Data Format
 \`\`\`json
 {
-"id": "unique-task-id",
-"title": "Task Title",
-"description": "Task Description",
-"category": "Work",
-"priority": "high",
-"isCompleted": false,
-"createdAt": "2024-01-01T10:00:00.000Z",
-"dueDate": "2024-01-02T15:00:00.000Z",
-"completedAt": null,
-"updatedAt": "2024-01-01T10:00:00.000Z"
+  "id": "unique-task-id",
+  "title": "Task Title",
+  "description": "Task Description",
+  "category": "Work",
+  "priority": "high",
+  "isCompleted": false,
+  "createdAt": "2024-01-01T10:00:00.000Z",
+  "dueDate": "2024-01-02T15:00:00.000Z",
+  "completedAt": null,
+  "updatedAt": "2024-01-01T10:00:00.000Z"
 }
 \`\`\`
 
